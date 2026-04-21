@@ -29,8 +29,8 @@
 ### Connect with me
 
 <p>
-  <a href="https://linkedin.com/">LinkedIn</a> •
-  <a href="https://upwork.com/">Upwork</a>
+  <a href="[https://linkedin.com/](https://www.linkedin.com/in/rayen-mlayeh/)">LinkedIn</a> •
+  <a href="[https://upwork.com/](https://www.upwork.com/freelancers/~01304aec4a7ffc8e6c)">Upwork</a>
 </p>
 
 ---
