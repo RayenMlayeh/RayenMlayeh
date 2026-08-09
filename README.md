@@ -1,12 +1,10 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Hi,%20I'm%20Rayen%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20from%20Tunisia%20%E2%80%A2%20Python%20%E2%80%A2%20AI%20%26%20Automation&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Rayen%20Mlayeh&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20from%20Tunisia%20%E2%80%A2%20Python%20%E2%80%A2%20AI%20and%20Automation&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- Animated typing intro -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=I+enjoy+building+things+with+Python;Automation+%E2%80%A2+AI+%E2%80%A2+Data+%E2%80%A2+Web;Turning+ideas+into+real%2C+working+systems;Always+learning+through+real+projects" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+reliable+software+with+Python;Automation%2C+AI%2C+and+data-driven+systems;Turning+ideas+into+practical%2C+working+tools;Continuously+learning+through+real+projects" alt="Typing SVG" />
 
 </div>
 
@@ -14,10 +12,10 @@
 
 ### About me
 
-- I enjoy building things with Python
-- Interested in automation, AI, data processing, and web development
-- I like turning ideas into practical tools and real working systems
-- Always learning and improving through real projects and freelance work
+- Software engineer with a focus on Python and practical problem-solving
+- Passionate about automation, AI, and data-driven systems
+- Experienced in turning ideas into functional, reliable tools
+- Committed to continuous learning through hands-on projects and freelance work
 
 <br/>
 
@@ -40,23 +38,10 @@
 
 ### Where I focus
 
-- Machine Learning, NLP, and data analysis
-- Automation and web scraping (Selenium and beyond)
+- Machine learning, natural language processing, and data analysis
+- Automation and web scraping
 - Backend development and practical software engineering
-- Exploring better, more reliable ways to build things
-
-<br/>
-
-<div align="center">
-
-<!-- GitHub stats, side by side -->
-<img src="https://github-readme-stats.vercel.app/api?username=RayenMlayeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayenMlayeh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<!-- Animated contribution snake -->
-<img src="https://raw.githubusercontent.com/RayenMlayeh/RayenMlayeh/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
+- Exploring more reliable, maintainable ways to build software
 
 <br/>
 
