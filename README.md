@@ -51,10 +51,10 @@
 
 <!-- GitHub stats, side by side -->
 <img src="https://github-readme-stats.vercel.app/api?username=RayenMlayeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayenMlayeh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <!-- Animated contribution snake -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/RayenMlayeh/RayenMlayeh/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
