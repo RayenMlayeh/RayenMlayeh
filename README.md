@@ -45,6 +45,14 @@
 
 <br/>
 
+### Open source
+
+- [invisible_playwright](https://github.com/feder-cr/invisible_playwright): a stealth Playwright wrapper around a patched Firefox
+  - [#326](https://github.com/feder-cr/invisible_playwright/pull/326) (merged, shipped in 0.34.0): a launch that failed before the browser started left the hidden display (Xvfb on Linux, a desktop handle on Windows) running
+  - [#329](https://github.com/feder-cr/invisible_playwright/pull/329) (open): `expect()` assertions passed or failed regardless of the page and never waited; they now run Playwright's own checks until the timeout
+
+<br/>
+
 ### Connect with me
 
 <div align="center">
